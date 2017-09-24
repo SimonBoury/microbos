@@ -12,3 +12,5 @@ Heel openbarend om te zien hoe mensen met een mentale beperking, ieder op zijn e
 
 Conclusie: Een integratie van zorgarbeid kan dus ook voor Microbos een enorme verrijking zijn. "Eetbare natuur" blijft de kernzaak maar zorgarbeid zou dit mee kunnen faciliteren.
 
+![Moulsecoomb Forest Garden 1](pictures/2017 09 22 | Forest Garden & Wildlife Project 1.jpg)
+
