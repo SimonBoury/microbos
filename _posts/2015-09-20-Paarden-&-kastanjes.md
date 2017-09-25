@@ -19,4 +19,4 @@ Waarom staan onze akkers nog niet vol met Wilde Kastanjes? Omdat onze bakkers no
 
 ![Wilde kastanje 2](https://user-images.githubusercontent.com/15105131/30832529-a1c844a2-a24b-11e7-8c40-8063a004f5f2.jpg)
 
-De foto's hierboven werden getrokken in een stukje bos dat momenteel gebruikt werd om paarden in te laten grazen.
+De foto's hierboven werden getrokken in een stukje bos dat momenteel gebruikt werd om paarden in te laten grazen. Dit zou dan ook als schoolvoorbeeld kunnen dienen voor productief landschap, met heel uiteenlopende functies.
