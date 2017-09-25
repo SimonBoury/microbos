@@ -1,12 +1,12 @@
 /* imports */
 
-@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Source+Sans+Pro');
 
 /* =Base */
 
 body { 
     
-    font-family: 'Inconsolata', ;
+    font-family: 'Source Sans Pro', sans-serif;
     color: $iron;
     background-color: $dorian;
 }
@@ -83,8 +83,9 @@ strong {
 }
 
 .logo {
+    font-family: 'Nunito', sans-serif;
     font-size: 50px;
-    font-weight: 700;
+    font-weight: bold;
     color: $iron;
     display: block;
 }
@@ -131,8 +132,8 @@ strong {
 }
 
 .page-title__text {
-    font-weight: 700;
-    font-size: 70px;
+    font-weight: semi-bold;
+    font-size: 35px;
 }
 
 .page-title__subtitle {
@@ -146,7 +147,7 @@ strong {
 }
 
 .post-title__text {
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .post-title__subtitle {
