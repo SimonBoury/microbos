@@ -12,6 +12,8 @@ Na het lezen van "A world without bees" besloot ik om aan de hand van de honingb
 
 Citaat uit **A world without bees** - Allison Benjamin & Brian McCallum (p. 239)
 
+![2017 10 05 wereld zonder bijen 1](https://user-images.githubusercontent.com/15105131/31252972-e594262a-aa1a-11e7-9940-2397a2da595b.jpg)
+
 Al tientallen jaren breken wetenschappers hun hoofd op de vraag waarom de honingbij massaal aan het uitsterven is. Ieder jaar moeten zowel professionele als hobby-imkers vaststellen dat een deel van hun kolonies op mysterieuze wijze verdwijnt, een probleem dat men de naam "Colony Collapse Dissorder" draagt. Aan de hand van deterministische wetenschap proberen tal van onderzoeksgroepen en wetenschappers de oorzaak van deze ziekte te vinden. Talloze ecologen zijn het er echter over eens dat er niet één enkel probleem aan de basis ligt maar dat het eerder om een combinatie van factoren gaat die de honingbij de laatste jaren verzwakt heeft.
 
 **Monocultuur**: Net zoals wij, mensen, baat hebben bij een gevarieerde voeding, geldt net hetzelfde voor de honingbij. Monocultuur zorgt ervoor dat bijen maar gedurende hele korte periodes in het jaar (wanneer de gewassen in bloei) staan, voeding kunnen verzamelen zonder variatie, waardoor ze niet de nodige ziekteresistentie meer kunnen opbouwen.
