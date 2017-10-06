@@ -9,7 +9,6 @@ categories: [land]
 Na het lezen van "A world without bees" besloot ik om aan de hand van de honingbij het belang van een veerkrachtig ecosysteem te duiden. Het uitsterven van de honingbij is volgens mij een heel krachtig voorbeeld van de gevolgen van verzwakkende ecosystemen. 
 
 > The mountains of southern Sichuan in China are covered in pear trees. Every April, they are home to a rare sight: thousands of people holding bamboo sticks with chicken feathers attached to the end, clambering among the blossom-laden branches. Closer inspection reveals that children, parents and even grandparents are all pollinating the trees by hand. It is a ritual they have been following for more than 20 years, ever since the pesticides killed their honeybees.
-
 > -- *Allison Benjamin & Brian McCallum*
 
 ![2017 10 05 wereld zonder bijen 1](https://user-images.githubusercontent.com/15105131/31252972-e594262a-aa1a-11e7-9940-2397a2da595b.jpg)
