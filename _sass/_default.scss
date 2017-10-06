@@ -1,6 +1,6 @@
 /* imports */
 
-@import url('https://fonts.googleapis.com/css?family=Nunito|Source+Sans+Pro:300,500,700');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Source+Sans+Pro:300,600,700');
 
 /* =Base */
 
@@ -144,7 +144,7 @@ strong {
 }
 
 .page-title__text {
-    font-weight: bold;
+    font-weight: 600;
     font-size: 32px;
 }
 
@@ -178,7 +178,7 @@ strong {
 }
 
 .post-teaser__title {
-    font-weight: bold;
+    font-weight: 600;
     font-size: 20px;
     color: $iron;
 }
