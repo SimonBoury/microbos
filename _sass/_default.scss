@@ -1,19 +1,20 @@
 /* imports */
 
-@import url('https://fonts.googleapis.com/css?family=Nunito|Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Source+Sans+Pro:300,600,800');
 
 /* =Base */
 
 body { 
     
     font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
     color: $iron;
     background-color: $dorian;
 }
 
 a {
     color: $cloudy;
-    font-weight: bold;
+    font-weight: 300;
     text-decoration: none;
 
     &:hover {
@@ -22,8 +23,8 @@ a {
 }
 
 p {
-    font-size: 20px;
-    line-height: 32px;
+    font-size: 18px;
+    line-height: 28px;
 }
 
 img {
@@ -33,7 +34,6 @@ img {
 }
 
 blockquote {
-    letter-spacing: 3px;
     margin:0px;
     margin-top: 40px;
     margin-bottom: 70px;
@@ -58,7 +58,7 @@ blockquote {
         display: inline;
         font-size: 20px;
         color: $cloudy;
-        font-weight: 400;
+        font-weight: 300;
         &:before { content: "“ "; }
         &:after { content: " ”"; }
     }
@@ -79,9 +79,10 @@ strong {
 }
 
 .logoimage {
-    margin: 0px auto;
+    margin-bottom: 10px;
     display: inline-block;
-    max-width: 100%;
+    width: 43px;
+    height: 40px;
     vertical-align: bottom;
 }
 .navigation {
@@ -91,9 +92,9 @@ strong {
 
 .logo {
     float: left;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 50px;
-    font-weight: bold;
+    font-weight: 800;
     color: $iron;
 }
 
@@ -116,7 +117,11 @@ strong {
 }
 
 .menu__entry a {
-    font-weight: 400;
+    font-weight: 300;
+}
+
+.menu__entry a:hover {
+    color: $iron;
 }
 
 .social-links {
@@ -139,13 +144,13 @@ strong {
 }
 
 .page-title__text {
-    font-weight: semi-bold;
-    font-size: 35px;
+    font-weight: 600;
+    font-size: 32px;
 }
 
 .page-title__subtitle {
-    font-weight: 400;
-    font-size: 22px;
+    font-weight: 300;
+    font-size: 20px;
     color: $cloudy;
 }
 
@@ -154,7 +159,7 @@ strong {
 }
 
 .post-title__text {
-    font-size: 35px;
+    font-size: 32px;
 }
 
 .post-title__subtitle {
@@ -170,15 +175,16 @@ strong {
 
 .post-teaser {
     margin-bottom: 45px;
-    font-weight: 700;
 }
 
 .post-teaser__title {
-    font-size: 22px;
+    font-weight: 600;
+    font-size: 20px;
     color: $iron;
 }
 
 .post-teaser__date {
+    font-weight: 300;
     font-size: 16px;
     float: right;
     vertical-align: middle;
@@ -186,8 +192,8 @@ strong {
 }
 
 .empty-post-list {
-    font-size: 22px;
-    font-weight: 700;
+    font-size: 20px;
+    font-weight: 300;
     color: $iron;
     text-align: center;
 }
@@ -205,7 +211,7 @@ strong {
 }
 
 .explore__label {
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 15px;
 }
 
@@ -217,7 +223,7 @@ strong {
 
 .categories__item {
     display: inline-block;
-    font-weight: 700;
+    font-weight: 800;
     font-size: 18px;
 }
 
