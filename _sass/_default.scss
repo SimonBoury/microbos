@@ -1,6 +1,6 @@
 /* imports */
 
-@import url('https://fonts.googleapis.com/css?family=Nunito|Source+Sans+Pro:300,600,700');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Source+Sans+Pro:300,600,800');
 
 /* =Base */
 
@@ -14,7 +14,7 @@ body {
 
 a {
     color: $cloudy;
-    font-weight: 500;
+    font-weight: 300;
     text-decoration: none;
 
     &:hover {
@@ -94,7 +94,7 @@ strong {
     float: left;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 50px;
-    font-weight: 700;
+    font-weight: 800;
     color: $iron;
 }
 
@@ -223,7 +223,7 @@ strong {
 
 .categories__item {
     display: inline-block;
-    font-weight: bold;
+    font-weight: 800;
     font-size: 18px;
 }
 
