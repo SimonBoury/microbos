@@ -30,8 +30,7 @@ img {
     margin: 40px auto;
     display: inline-block;
     max-width: 100%;
-    position: absolute;
-    bottom: 0;
+    float: bottom;
 }
 
 blockquote {
