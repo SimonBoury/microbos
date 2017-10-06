@@ -5,4 +5,4 @@ subtitle: Just who the hell you think I am?
 permalink: /missie/
 ---
 
-Meer informatie volgt snel(kookpan).
+Meer informatie volgt snel.
