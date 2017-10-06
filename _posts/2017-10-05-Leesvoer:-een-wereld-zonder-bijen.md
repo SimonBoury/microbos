@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Een wereld zonder bijen"
+title:  "Leesvoer: Een wereld zonder bijen"
 subtitle: "Het belang van een veerkrachtig ecosysteem"
 date:   2017-10-05 18:00:00
 categories: [Forest garden]
@@ -8,13 +8,12 @@ categories: [Forest garden]
 
 Na het lezen van "A world without bees" besloot ik om aan de hand van de honingbij het belang van een veerkrachtig ecosysteem te duiden. Het uitsterven van de honingbij is volgens mij een heel krachtig voorbeeld van de gevolgen van verzwakkende ecosystemen. 
 
-> The mountains of southern Sichuan in China are covered in pear trees. Every April, they are home to a rare sight: thousands of people holding bamboo sticks with chicken feathers attached to the end, clambering among the blossom-laden branches. Closer inspection reveals that children, parents and even grandparents are all pollinating the trees by hand. It is a ritual they have been following for more than 20 years, ever since the pesticides killed their honeybees." 
-
-Citaat uit **A world without bees** - Allison Benjamin & Brian McCallum (p. 239)
+> The mountains of southern Sichuan in China are covered in pear trees. Every April, they are home to a rare sight: thousands of people holding bamboo sticks with chicken feathers attached to the end, clambering among the blossom-laden branches. Closer inspection reveals that children, parents and even grandparents are all pollinating the trees by hand. It is a ritual they have been following for more than 20 years, ever since the pesticides killed their honeybees.
+> --[Allison Benjamin & Brian McCallum][1]
 
 ![2017 10 05 wereld zonder bijen 1](https://user-images.githubusercontent.com/15105131/31252972-e594262a-aa1a-11e7-9940-2397a2da595b.jpg)
 
-Al tientallen jaren breken wetenschappers hun hoofd op de vraag waarom de honingbij massaal aan het uitsterven is. Ieder jaar moeten zowel professionele als hobby-imkers vaststellen dat een deel van hun kolonies op mysterieuze wijze verdwijnt, een probleem dat men de naam "Colony Collapse Dissorder" draagt. Aan de hand van deterministische wetenschap proberen tal van onderzoeksgroepen en wetenschappers de oorzaak van deze ziekte te vinden. Talloze ecologen zijn het er echter over eens dat er niet één enkel probleem aan de basis ligt maar dat het eerder om een combinatie van factoren gaat die de honingbij de laatste jaren verzwakt heeft.
+Al tientallen jaren breken wetenschappers hun hoofd op de vraag waarom de honingbij massaal aan het uitsterven is. Ieder jaar moeten zowel professionele als hobby-imkers vaststellen dat een deel van hun kolonies op mysterieuze wijze verdwijnt, een probleem dat men "Colony Collapse Dissorder" heeft genaamd. Aan de hand van deterministische wetenschap proberen tal van onderzoeksgroepen en wetenschappers de oorzaak van deze ziekte te vinden. Talloze ecologen zijn het er echter over eens dat er niet één enkel probleem aan de basis ligt maar dat het eerder om een combinatie van factoren gaat die de honingbij de laatste jaren verzwakt heeft.
 
 **Monocultuur**: Net zoals wij, mensen, baat hebben bij een gevarieerde voeding, geldt net hetzelfde voor de honingbij. Monocultuur zorgt ervoor dat bijen maar gedurende hele korte periodes in het jaar (wanneer de gewassen in bloei) staan, voeding kunnen verzamelen zonder variatie, waardoor ze niet de nodige ziekteresistentie meer kunnen opbouwen.
 
