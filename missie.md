@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Onze missie
-subtitle: Just who the hell you think I am?
+subtitle: De bestaansreden van dit project...
 permalink: /missie/
 ---
 
