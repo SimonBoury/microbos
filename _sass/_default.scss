@@ -30,6 +30,8 @@ img {
     margin: 40px auto;
     display: inline-block;
     max-width: 100%;
+    position: absolute;
+    bottom: 0;
 }
 
 blockquote {
@@ -80,7 +82,7 @@ strong {
 
 .navigation {
     float:left;
-    display: inline-block;
+    display: block;
 }
 
 .logo {
