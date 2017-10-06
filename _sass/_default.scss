@@ -1,6 +1,6 @@
 /* imports */
 
-@import url('https://fonts.googleapis.com/css?family=Nunito|Source+Sans+Pro:300,700');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Source+Sans+Pro:300,500,700');
 
 /* =Base */
 
@@ -23,8 +23,8 @@ a {
 }
 
 p {
-    font-size: 20px;
-    line-height: 32px;
+    font-size: 14px;
+    line-height: 26px;
 }
 
 img {
@@ -142,12 +142,12 @@ strong {
 
 .page-title__text {
     font-weight: 500;
-    font-size: 35px;
+    font-size: 32px;
 }
 
 .page-title__subtitle {
     font-weight: 300;
-    font-size: 22px;
+    font-size: 20px;
     color: $cloudy;
 }
 
@@ -156,7 +156,7 @@ strong {
 }
 
 .post-title__text {
-    font-size: 35px;
+    font-size: 32px;
 }
 
 .post-title__subtitle {
@@ -172,15 +172,16 @@ strong {
 
 .post-teaser {
     margin-bottom: 45px;
-    font-weight: 700;
 }
 
 .post-teaser__title {
+    font-weight: 500;
     font-size: 22px;
     color: $iron;
 }
 
 .post-teaser__date {
+    font-weight: 300;
     font-size: 16px;
     float: right;
     vertical-align: middle;
@@ -189,7 +190,7 @@ strong {
 
 .empty-post-list {
     font-size: 22px;
-    font-weight: 700;
+    font-weight: 300;
     color: $iron;
     text-align: center;
 }
