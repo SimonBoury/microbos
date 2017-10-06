@@ -50,8 +50,8 @@ blockquote {
         left:0px;
         right: 0px;
 
-        &:before { content: "** "; }
-        &:after { content: " **"; }
+        &:before { content: "- "; }
+        &:after { content: " -"; }
     }
 
     p {
