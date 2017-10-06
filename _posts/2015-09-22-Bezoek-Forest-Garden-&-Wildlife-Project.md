@@ -3,7 +3,7 @@ layout: post
 title:  "Bezoek: Forest Garden & Wildlife Project"
 subtitle: "Belang van community"
 date:   2017-09-22 18:00:00
-categories: [Forest garden, Community]
+categories: [land]
 ---
 
 ![Moulsecoomb Forest Garden 2](https://user-images.githubusercontent.com/15105131/30786994-f268c746-a17f-11e7-8a64-462db87adeae.jpg)

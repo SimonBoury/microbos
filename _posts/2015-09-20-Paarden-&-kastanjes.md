@@ -3,7 +3,7 @@ layout: post
 title:  "Paarden & kastanjes"
 subtitle: "Wilde Kastanje, het nieuwe graan?"
 date:   2017-09-25 18:00:00
-categories: [Forest garden]
+categories: [Land]
 ---
 
 Indien we het gros van onze voeding uit een meerjarige ecosystemen willen halen, zullen we uiteraard ook ons voedingspatroon moeten aanpassen. Die aanpassing hoeft heus niet zo drastisch te zijn. 
