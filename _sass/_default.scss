@@ -76,13 +76,16 @@ strong {
 
 .header {
     overflow: hidden;
+    display: inline-block;
 }
 
 .navigation {
     float:left;
+    dispaly: inline-block;
 }
 
 .logo {
+    float: left;
     font-family: 'Nunito', sans-serif;
     font-size: 50px;
     font-weight: bold;
