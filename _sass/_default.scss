@@ -28,7 +28,7 @@ p {
 
 img {
     margin: 40px auto;
-    display: inline-block;
+    display: block;
     max-width: 100%;
 }
 
@@ -87,7 +87,7 @@ strong {
     font-size: 50px;
     font-weight: bold;
     color: $iron;
-    display: inline-block;
+    display: block;
 }
 
 .menu {
