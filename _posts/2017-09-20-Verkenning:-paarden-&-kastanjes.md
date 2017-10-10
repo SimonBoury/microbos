@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paarden & kastanjes"
+title:  "Verkenning: Paarden & kastanjes"
 subtitle: "Tamme Kastanje, het nieuwe graan?"
 date:   2017-09-25 18:00:00
 categories: [land]

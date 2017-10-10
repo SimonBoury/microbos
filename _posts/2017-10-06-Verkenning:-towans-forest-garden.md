@@ -15,4 +15,4 @@ De schaal van deze tuin maakte dit een heel interessant en leerrijk bezoek aange
 
 Toen hij ons na het bezoek nog uitnodigde voor een kop koffie werd snel duidelijk dat de motieven achter deze voedseltuin veel breder zijn dan het herstel van een stuk gedegradeerde grond. Gezonde voeding en het element van zelfvoorzienendheid zijn voor hem even belangrijk. "The China Study" was voor hem de perfecte wetenschappelijke basis, om zijn dieet (wholefoods en gebaseerd op planten) verder te promoten in zijn lokale community.
 
-**Meer info**: [Towans Forest Garden](www.towansforestgarden.co.uk)
+**Meer info**: [Towans Forest Garden](http://www.towansforestgarden.co.uk)
