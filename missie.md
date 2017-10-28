@@ -7,7 +7,7 @@ permalink: /missie/
 
 Een kruising tussen landbouw en natuur, dat is het uiteindelijke streefdoel van Microbos vzw. Hoe dit er concreet uitziet? Heel divers! Wij zijn ervan overtuigd dat er meerdere systemen bestaan die een antwoord bieden op het huidige landbouwsysteem, dat zowel op ecologisch, economisch als sociaal vlak tekort komt. Microbos wil de systemen, waar landbouw en natuur convergeren, in de praktijk aftoetsen. Op die manier kunnen we inspireren & evolueren naar een duurzame & productieve landschapsontwikkeling.
 
-![microbos drieluik](https://user-images.githubusercontent.com/15105131/31287227-7a3c0f48-aab8-11e7-9699-1f3d93528c08.png)
+![microbos missiedrieluik transparent](https://user-images.githubusercontent.com/15105131/31443610-d0c4461e-ae91-11e7-8f25-fb12259bbe1f.png)
 
 Om dit te realiseren zal Microbos op termijn actief zijn binnen drie domeinen: **#kwekerij**, **#land** en **#keuken**. Hoewel deze drie domeinen verschillende aspecten & kennis omvatten, is het de bedoeling dat deze samen één geheel vormen, namelijk "Microbos". 
 
